@@ -1,0 +1,2 @@
+# Portifolio-Website
+For a designer or developer, this is a neat and tidy web portfolio. Almost anything you want to demonstrate is included in this. First and foremost, your name, social media links, and a fantastic image. Then, in the About area, you can learn more about yourself. Then there's the list of skills it provides. It also has a section that displays some recent work. It also features a form at the bottom and a footer at the end.
